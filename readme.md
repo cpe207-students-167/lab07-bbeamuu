@@ -5,7 +5,7 @@
 
 รหัส นศ.:660610798
 
-ชื่อ-สกุล :ศุภกร บูรณะชาติ
+ชื่อ-สกุล : ศุภกร บูรณะชาติ
 
 GitHub Page URL :https://cpe207-students-167.github.io/lab07-bbeamuu/
 
